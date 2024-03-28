@@ -59,8 +59,6 @@ const CONFIG = {
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: '关于我们',
   STARTER_ABOUT_TEXT: '多豆乐科技是AIGC软件A股上市公司万兴科技(300624.SZ)旗下一家致力于通过内容运营+技术工具提供AIGC数字人应用解决方案的服务商，亦是一家动漫短剧运营商，主营业务为数字人在各场景中的应用解决方案运营服务。公司位于长沙市开福区马栏山聚恒科技园。',
-  STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '7000+',
@@ -74,7 +72,7 @@ const CONFIG = {
   STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
 
   STARTER_FAQ_1_QUESTION: '你们有客户案例吗？',
-  STARTER_FAQ_1_ANSWER: '<a href="https://docs.qq.com/aio/DR0NYZ1B2VlZ3c3Vw" className="underline">点击这里查看我们的客户案例</a>
+  STARTER_FAQ_1_ANSWER: '<a href="https://docs.qq.com/aio/DR0NYZ1B2VlZ3c3Vw" className="underline">点击这里查看我们的客户案例</a>'
 
   STARTER_FAQ_2_QUESTION: '做数字人要多少钱？',
   STARTER_FAQ_2_ANSWER: '我们提供极具性价比的价格，详情请联系我们。',
