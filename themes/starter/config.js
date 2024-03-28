@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 默认只展示Logo文字，如果设置了logo图片，会在文字左侧显示图标
   STARTER_LOGO: '', // 普通logo图片 示例：/images/starter/logo/logo.svg
-  STARTER_LOGO_WHITE: '', // 透明底浅色logo 示例： /images/starter/logo/logo-white.svg
+  STARTER_LOGO_WHITE: 'https://s21.ax1x.com/2024/03/28/pFoK7W9.png', // 透明底浅色logo 示例： /images/starter/logo/logo-white.svg
 
   // MENU ， 菜单部分不在此处配置，请在Notion数据库中添加MENU
 
@@ -20,7 +20,7 @@ const CONFIG = {
   STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
-  STARTER_HERO_PREVIEW_IMAGE: 'https://s21.ax1x.com/2024/03/28/pFoiGdI.png', // 产品预览图 ，默认读取public目录下图片
+  STARTER_HERO_PREVIEW_IMAGE: 'https://s21.ax1x.com/2024/03/28/pFoKlVO.png', // 产品预览图 ，默认读取public目录下图片
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
@@ -56,9 +56,10 @@ const CONFIG = {
   STARTER_FEATURE_4_BUTTON_URL: 'https://v.youku.com/v_show/id_XNTk1OTYxNjEyNA==.html', // 特性4
 
   // 首页ABOUT区块
-  STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: '关于我们',
   STARTER_ABOUT_TEXT: '多豆乐科技是AIGC软件A股上市公司万兴科技(300624.SZ)旗下一家致力于通过内容运营+技术工具提供AIGC数字人应用解决方案的服务商，亦是一家动漫短剧运营商，主营业务为数字人在各场景中的应用解决方案运营服务。公司位于长沙市开福区马栏山聚恒科技园。',
+  STARTER_ABOUT_BUTTON_TEXT: '',
+  STARTER_ABOUT_BUTTON_URL: '',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '7000+',
