@@ -20,7 +20,7 @@ const CONFIG = {
   STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
-  STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/hero-image.webp', // 产品预览图 ，默认读取public目录下图片
+  STARTER_HERO_PREVIEW_IMAGE: 'https://s21.ax1x.com/2024/03/28/pFoiGdI.png', // 产品预览图 ，默认读取public目录下图片
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
@@ -43,12 +43,12 @@ const CONFIG = {
   STARTER_FEATURE_2_TITLE_1: 'AI数字人短视频与直播', // 特性2
   STARTER_FEATURE_2_TEXT_1: '新时代企业必备入门级AI工具，实现真正意义上的降本增效', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
-  STARTER_FEATURE_2_BUTTON_URL: 'https://v.youku.com/v_show/id_XNTk2MTU5MTIxMg==.html', // 特性2
+  STARTER_FEATURE_2_BUTTON_URL: 'https://virbo.wondershare.cn/', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '3D超写实数字人运营引擎', // 特性3
   STARTER_FEATURE_3_TEXT_1: '实时、准确、快速创作3D超写实数字人，支持AI大模型交互', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://v.youku.com/v_show/id_XNTk2MDc0NTk4MA==.html', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.qq.com/aio/DR3ZLelV6ZENucEF1', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: 'XR虚拟制播', // 特性4
   STARTER_FEATURE_4_TEXT_1: '融合现实与虚拟，开启沉浸式广电制作新篇章', // 特性4
