@@ -65,23 +65,23 @@ const CONFIG = {
   STARTER_ABOUT_TIPS_2: '博客站点',
   STARTER_ABOUT_TIPS_3: '正在线上运行',
 
-  //   FAQ 常见问题模块
-  STARTER_FAQ_ENABLE: true, // 常见问题模块开关
+  //   FAQ模块
   STARTER_FAQ_TITLE: '常见问题解答',
-  STARTER_FAQ_TEXT_1: '有什么疑问吗？请看这里',
+  STARTER_FAQ_TEXT_1: '有任何疑问？请看这里',
   STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
 
-  STARTER_FAQ_1_QUESTION: '你们有客户案例吗？',
-  STARTER_FAQ_1_ANSWER: '<a href="https://docs.qq.com/aio/DR0NYZ1B2VlZ3c3Vw" className="underline">点击这里查看我们的客户案例</a>'
+  STARTER_FAQ_1_QUESTION: 'NotionNext有帮助文档吗？',
+  STARTER_FAQ_1_ANSWER: 'NotionNext提供了<a href="https://docs.tangly1024.com/about" className="underline">帮助文档</a>，操作<a href="https://www.bilibili.com/video/BV1fM4y1L7Qi/" className="underline">演示视频</a>，以及<a href="https://docs.tangly1024.com/article/chat-community" className="underline">交流社群</a>来协助您完成网站的搭建部署',
 
-  STARTER_FAQ_2_QUESTION: '做数字人要多少钱？',
-  STARTER_FAQ_2_ANSWER: '我们提供极具性价比的价格，详情请联系我们。',
+  STARTER_FAQ_2_QUESTION: '部署后要如何编写文章？',
+  STARTER_FAQ_2_ANSWER: '您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://docs.tangly1024.com/article/start-to-write">《帮助文档》</a>',
 
-  STARTER_FAQ_3_QUESTION: '可以定制自己的数字人吗？',
-  STARTER_FAQ_3_ANSWER: '完全可以！只需要一段简单的素材视频，等待数日即可拥有自己的数字人。',
+  STARTER_FAQ_3_QUESTION: '站点部署失败，更新失败？',
+  STARTER_FAQ_3_ANSWER: '通常是配置修改错误导致，请检查配置或者重试操作步骤，或者通过Vercel后台的Deployments中找到错误日志，并向网友求助',
 
-  STARTER_FAQ_4_QUESTION: '数字人直播能互动吗？',
-  STARTER_FAQ_4_ANSWER: '当然，我们支持AI和人工两种方式实现直播间互动。',
+  STARTER_FAQ_4_QUESTION: '文章没有实时同步？',
+  STARTER_FAQ_4_ANSWER: '先检查Notion_Page_ID是否正确配置，其次由于博客的每个页面都有独立缓存，刷新网页后即可解决',
+
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
