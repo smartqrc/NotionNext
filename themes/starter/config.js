@@ -67,7 +67,7 @@ const CONFIG = {
 
   //   FAQ模块
   STARTER_FAQ_TITLE: '常见问题解答',
-  STARTER_FAQ_TEXT_1: '有任何疑问？请看这里',
+  STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
   STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
 
   STARTER_FAQ_1_QUESTION: 'NotionNext有帮助文档吗？',
@@ -84,23 +84,11 @@ const CONFIG = {
 
 
   // 联系模块
-  STARTER_CONTACT_ENABLE: true, // 联系模块开关
+  STARTER_CONTACT_ENABLE: false, // 联系模块开关
   STARTER_CONTACT_TITLE: '联系我们',
   STARTER_CONTACT_TEXT: '告诉我们您的需求',
   STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
   STARTER_CONTACT_LOCATION_TEXT: '湖南，长沙，马栏山聚恒科技园',
-
-  // 嵌入外部表单
-  STARTER_CONTACT_MSG_EXTERNAL_URL: 'http://emvrxywtgnf05rjr.mikecrm.com/kl9PGY5', // 基于NoteForm创建，将留言数据存在Notion中
-  //   自定义留言表单，以下几个配置暂时废弃
-  //   STARTER_CONTACT_MSG_TITLE: '向我们留言',
-  //   STARTER_CONTACT_MSG_NAME: '姓名',
-  //   STARTER_CONTACT_MSG_EMAIL: '邮箱地址',
-  //   STARTER_CONTACT_MSG_PHONE: '联系电话',
-  //   STARTER_CONTACT_MSG_TEXT: '消息内容',
-  //   STARTER_CONTACT_MSG_SEND: '发送消息',
-  //   STARTER_CONTACT_MSG_THANKS: '感谢您的留言',
-
 
   STARTER_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
 
