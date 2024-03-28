@@ -33,7 +33,7 @@ const CONFIG = {
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
   STARTER_FEATURE_TITLE: '业务', // 特性
   STARTER_FEATURE_TEXT_1: '我们的主要业务', // 特性
-  //STARTER_FEATURE_TEXT_2: '让世界更有创意', // 特性
+  STARTER_FEATURE_TEXT_2: '让世界更有创意', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '虚拟数字人IP打造', // 特性1
   STARTER_FEATURE_1_TEXT_1: '基于千万粉丝IP打造经验，为企业塑造品牌个性，多元交互提升品牌形象', // 特性1
@@ -89,11 +89,9 @@ const CONFIG = {
   STARTER_CONTACT_TEXT: '告诉我们您的需求',
   STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
   STARTER_CONTACT_LOCATION_TEXT: '湖南，长沙，马栏山聚恒科技园',
-  STARTER_CONTACT_EMAIL_TITLE: '我们如何帮助您？',
-  STARTER_CONTACT_EMAIL_TEXT: 'mail@tangly1024.com',
 
   // 嵌入外部表单
-  STARTER_CONTACT_MSG_EXTERNAL_URL: '', // 基于NoteForm创建，将留言数据存在Notion中
+  STARTER_CONTACT_MSG_EXTERNAL_URL: 'http://emvrxywtgnf05rjr.mikecrm.com/kl9PGY5', // 基于NoteForm创建，将留言数据存在Notion中
   //   自定义留言表单，以下几个配置暂时废弃
   //   STARTER_CONTACT_MSG_TITLE: '向我们留言',
   //   STARTER_CONTACT_MSG_NAME: '姓名',
